@@ -1,1 +1,3 @@
-Branding
+Fourier_Yohanes Anthony Saputra
+
+Program ini adalah kalkulator bangun datar. Program jni berfungsi untuk menghitung luas dari berbagai macam jenis bangun datar agar suatu tugas jadi lebih cepat diselesaikan tanpa harus menghitung manual luas dari setiap bangun datar. Program ini juga menjamin hasil perhitungan yang akurat apalagi untuk luas bangun datar yang memiliki angka tidak terlalu enak dihitung manual. Program ini menyediakan 9 jenis pilihan luas bangun datar yaitu persegi, persegi panjang/ jajar genjang, segitiga, lingkaran, trapesium, layang-layang/ belah ketupat, oval/ elips, segi lima, dan segi enam.
